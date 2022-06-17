@@ -1,4 +1,4 @@
-### IAE, pessoa! Sou Filipe Aquino!!
+### Iae, pessoa! Sou Filipe Aquino!!
 
 - 🌱 Eu estou aprendendo o básico do front-end no  ProgBr;
 - ⚡ Curiosidade: Estou fazendo engenharia elética na UFRPE/Cabo, mas meu objetivo é ser um programador full stack;
