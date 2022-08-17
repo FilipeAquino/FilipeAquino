@@ -2,6 +2,7 @@
 
 - 🌱 Eu estou aprendendo o básico do front-end no  ProgBr;
 - ⚡ Curiosidade: Estou fazendo engenharia elética na UFRPE/Cabo, mas meu objetivo é ser um programador full stack; <br>
+- Em busca do meu primeiro emprego como "progamador-web Front-End JR". Não tenho experiência;
 
 <div align="center">
   <a href="https://github.com/filipeaquino">
@@ -15,6 +16,8 @@
   <img align="center" alt="Js" height="28" width="124" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="HTML" height="28" width="85" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" height="28" width="73" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="CSS" height="28" width="73" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white>
+  <img align="center" alt="CSS" height="28" width="73" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
  
 </div> <br>
   
