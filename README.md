@@ -1,8 +1,7 @@
 ### Iae, pessoa! Sou Filipe Aquino!! <br>
 
 - 🌱 Eu estou aprendendo o básico do front-end no  ProgBr;
-- ⚡ Curiosidade: Estou fazendo engenharia elética na UFRPE/Cabo, mas meu objetivo é ser um programador full stack; <br>
-- Em busca do meu primeiro emprego como "progamador-web Front-End JR". Não tenho experiência;
+- ⚡ Curiosidade: Estou fazendo engenharia elética na UACSA, mas meu objetivo é trabalhar como programador <br>
 
 <div align="center">
   <a href="https://github.com/filipeaquino">
