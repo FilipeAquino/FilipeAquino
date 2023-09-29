@@ -1,6 +1,6 @@
 ### Iae, pessoa! Sou Filipe Aquino!! <br>
 
-- 🌱 Eu estou aprendendo o básico do front-end no  ProgBr;
+- 🌱 ;
 - ⚡ Curiosidade: Estou fazendo engenharia elética na UACSA, mas meu objetivo é trabalhar como programador <br>
 
 <div align="center">
